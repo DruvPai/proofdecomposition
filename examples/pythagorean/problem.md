@@ -1,0 +1,1 @@
+Prove the Pythagorean theorem, i.e., for a right triangle with legs of sizes $a$ and $b$ with hypotenuse of length $c$, we have $a^{2} + b^{2} = c^{2}$.
