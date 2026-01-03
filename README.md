@@ -1,6 +1,6 @@
 # ProofDecomposition (`prover`)
 
-Multi-agent, LLM-powered mathematical problem solver (MVP) built around a sequential runtime, a shared in-memory knowledge base, and a small set of cooperating “agents” (orchestrator/exploration/worker/prover/verifier/parser).
+Multi-agent, LLM-powered mathematical problem solver built around a sequential runtime, a shared in-memory knowledge base, and a small set of cooperating “agents” (orchestrator/exploration/worker/prover/verifier/parser).
 
 `SPEC.md` is the source of truth for intended behavior; `docs/ARCHITECTURE.md` summarizes the current module layout.
 
